@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\documents sem6\computer graphics\assignments\changingbackgroundformario - copy\changingbackgroundformario\rgbapixmap.h(154): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+e:\documents sem6\computer graphics\assignments\changingbackgroundformario - copy\changingbackgroundformario\rgbapixmap.h(162): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+e:\documents sem6\computer graphics\assignments\changingbackgroundformario - copy\changingbackgroundformario\rgbapixmap.h(203): warning C4018: '<': signed/unsigned mismatch
+e:\documents sem6\computer graphics\assignments\changingbackgroundformario - copy\changingbackgroundformario\rgbapixmap.h(205): warning C4018: '<': signed/unsigned mismatch
+  changingBackgroundforMario.vcxproj -> E:\Documents sem6\Computer Graphics\Assignments\changingBackgroundforMario - Copy\Debug\changingBackgroundforMario.exe

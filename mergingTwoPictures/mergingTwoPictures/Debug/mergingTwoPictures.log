@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\documents sem6\computer graphics\assignments\mergingtwopictures\mergingtwopictures\rgbapixmap.h(152): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+e:\documents sem6\computer graphics\assignments\mergingtwopictures\mergingtwopictures\rgbapixmap.h(160): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+e:\documents sem6\computer graphics\assignments\mergingtwopictures\mergingtwopictures\rgbapixmap.h(201): warning C4018: '<': signed/unsigned mismatch
+e:\documents sem6\computer graphics\assignments\mergingtwopictures\mergingtwopictures\rgbapixmap.h(203): warning C4018: '<': signed/unsigned mismatch
+  mergingTwoPictures.vcxproj -> E:\Documents sem6\Computer Graphics\Assignments\mergingTwoPictures\Debug\mergingTwoPictures.exe

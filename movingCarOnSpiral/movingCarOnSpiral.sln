@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "movingCarOnSpiral", "movingCarOnSpiral\movingCarOnSpiral.vcxproj", "{6F48E44D-0FAE-4169-AE16-37CC4E53291D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Debug|x64.ActiveCfg = Debug|x64
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Debug|x64.Build.0 = Debug|x64
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Debug|x86.Build.0 = Debug|Win32
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Release|x64.ActiveCfg = Release|x64
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Release|x64.Build.0 = Release|x64
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Release|x86.ActiveCfg = Release|Win32
+		{6F48E44D-0FAE-4169-AE16-37CC4E53291D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51817557-8C48-483F-AA95-41A49A0E9882}
+	EndGlobalSection
+EndGlobal

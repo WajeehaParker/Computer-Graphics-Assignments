@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\documents sem6\computer graphics\assignments\pointinsideconvexpolygon\pointinsideconvexpolygon\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+e:\documents sem6\computer graphics\assignments\pointinsideconvexpolygon\pointinsideconvexpolygon\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  pointInsideConvexPolygon.vcxproj -> E:\Documents sem6\Computer Graphics\Assignments\pointInsideConvexPolygon\Debug\pointInsideConvexPolygon.exe

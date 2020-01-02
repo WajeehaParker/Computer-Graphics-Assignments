@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\documents sem6\computer graphics\assignments\skybox\skybox\rgba.h(381): warning C4101: 'c': unreferenced local variable
+e:\documents sem6\computer graphics\assignments\skybox\skybox\rgba.h(401): warning C4101: 'c': unreferenced local variable
+e:\documents sem6\computer graphics\assignments\skybox\skybox\rgba.h(483): warning C4101: 'c': unreferenced local variable
+e:\documents sem6\computer graphics\assignments\skybox\skybox\rgba.h(503): warning C4101: 'c': unreferenced local variable
+  skyBox.vcxproj -> E:\Documents sem6\Computer Graphics\Assignments\skyBox\Debug\skyBox.exe

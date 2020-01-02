@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\documents sem6\computer graphics\assignments\tilingwithbarn\tilingwithbarn\main.cpp(738): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TilingwithBarn.vcxproj -> E:\Documents sem6\Computer Graphics\Assignments\TilingwithBarn\Debug\TilingwithBarn.exe

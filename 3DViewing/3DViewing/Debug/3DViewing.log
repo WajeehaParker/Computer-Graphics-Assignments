@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\documents sem6\computer graphics\assignments\3dviewing\3dviewing\main.cpp(714): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  3DViewing.vcxproj -> E:\Documents sem6\Computer Graphics\Assignments\3DViewing\Debug\3DViewing.exe
